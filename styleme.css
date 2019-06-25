@@ -11,3 +11,24 @@ h1,h2{
 	font-family:Verdana;
 	 color: purple;
 }
+ a:link{
+	text-decoration:none;
+}
+a:visited{
+	background-color:cyan;
+}
+a:hover{
+	background-color: lightgreen;
+}
+a:active{
+	background-color: hotpink;
+}
+p::first-letter{
+  float : left;
+  font-size   : 3em;
+}
+dt{
+	color: yellow;
+}
+	
+

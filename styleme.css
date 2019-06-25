@@ -1,0 +1,13 @@
+strong {
+	color: blue;
+	font-family : "Arial Black";
+	font-size: 2em;
+	font-style: italic;
+}
+body{
+	background-color : coral;  
+}
+h1,h2{
+	font-family:Verdana;
+	 color: purple;
+}

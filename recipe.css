@@ -21,7 +21,7 @@ body{
 body a{
 	color:#A4A400;
 }
-body pre{
+pre{
 	font-family: monospace;
 	float:right;
 	clear:right;
@@ -44,4 +44,10 @@ body pre{
 }
  ul,dt{
 	list-style-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif");
+}
+ ul.name{
+	 list-style-image: none;
+	  list-style-type: none;
+	
+	
 }

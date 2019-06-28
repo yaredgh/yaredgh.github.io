@@ -32,7 +32,7 @@ pre{
 .firstword{
 	font-weight: bold;
 }
- blockquote,dd{
+ figure,dd{
    padding: 0px;
    margin-right:0px;
    font-style: italic;

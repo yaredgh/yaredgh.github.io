@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CsTechsuport:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CsTechsuport_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CsTechsuport/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CsTechsuport" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
